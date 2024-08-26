@@ -31,7 +31,7 @@
         <spring-boot.version>2.0.7.RELEASE</spring-boot.version>
         <source.version>1.8</source.version>
         <target.version>1.8</target.version>
-        <swagger.version>2.4.0</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
         <encoding.version>UTF-8</encoding.version>
     </properties>
 
